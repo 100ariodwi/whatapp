@@ -6,7 +6,7 @@ class WhatApp{
 	string kontak;
 	
 	public
-	wa(string kontak, string pesan):KirimPesan(teks){
+	WA(string kontak, string pesan):KirimPesan(teks){
    	this->kontak = kontak;
 	this->pesan = Pesan;
     }
